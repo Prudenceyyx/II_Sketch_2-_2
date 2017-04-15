@@ -1,3 +1,5 @@
+//Upload Standard Firmata to Arduino before you run the sketch
+
 import processing.video.*;
 import processing.serial.*;
 import cc.arduino.*;
